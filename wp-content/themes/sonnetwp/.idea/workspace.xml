@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="894c6af1-e43d-4ee5-af32-25550be3e4c8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/aboutus.php" afterPath="$PROJECT_DIR$/section-templates/aboutus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/banner.php" afterPath="$PROJECT_DIR$/section-templates/banner.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/blank.php" afterPath="$PROJECT_DIR$/section-templates/blank.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/clients.php" afterPath="$PROJECT_DIR$/section-templates/clients.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/contact.php" afterPath="$PROJECT_DIR$/section-templates/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/features.php" afterPath="$PROJECT_DIR$/section-templates/features.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/news.php" afterPath="$PROJECT_DIR$/section-templates/news.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/pricing.php" afterPath="$PROJECT_DIR$/section-templates/pricing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/quote.php" afterPath="$PROJECT_DIR$/section-templates/quote.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/services.php" afterPath="$PROJECT_DIR$/section-templates/services.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/stories.php" afterPath="$PROJECT_DIR$/section-templates/stories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/story.php" afterPath="$PROJECT_DIR$/section-templates/story.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/subscriptions.php" afterPath="$PROJECT_DIR$/section-templates/subscriptions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/team-member-details.php" afterPath="$PROJECT_DIR$/section-templates/team-member-details.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section-templates/testimonials.php" afterPath="$PROJECT_DIR$/section-templates/testimonials.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="sonnetwp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sonnetwp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="banner.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-templates/banner.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="75" selection-start="695" selection-end="695" vertical-scroll-proportion="-9.692307" vertical-offset="0" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aboutus.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-templates/aboutus.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="97" selection-start="1228" selection-end="1228" vertical-scroll-proportion="20.961538" vertical-offset="905" max-vertical-offset="1494">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blank.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/section-templates/blank.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="124" selection-start="889" selection-end="889" vertical-scroll-proportion="0.5500849" vertical-offset="0" max-vertical-offset="648">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pricing.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-templates/pricing.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="48" selection-start="1804" selection-end="1804" vertical-scroll-proportion="-11.769231" vertical-offset="234" max-vertical-offset="1098">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio-item.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-templates/portfolio-item.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="288">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-templates/portfolio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1674">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-templates/news.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="124" selection-start="803" selection-end="803" vertical-scroll-proportion="-8.307693" vertical-offset="0" max-vertical-offset="972">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-templates/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="67" selection-start="746" selection-end="746" vertical-scroll-proportion="-0.6923077" vertical-offset="198" max-vertical-offset="990">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clients.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-templates/clients.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="124" selection-start="808" selection-end="808" vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="features.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-templates/features.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="124" selection-start="810" selection-end="810" vertical-scroll-proportion="-6.230769" vertical-offset="54" max-vertical-offset="1080">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/section-templates/quote.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/section-templates/story.php" />
+        <option value="$PROJECT_DIR$/section-templates/stories.php" />
+        <option value="$PROJECT_DIR$/section-templates/services.php" />
+        <option value="$PROJECT_DIR$/section-templates/subscriptions.php" />
+        <option value="$PROJECT_DIR$/section-templates/team-member-details.php" />
+        <option value="$PROJECT_DIR$/section-templates/testimonials.php" />
+        <option value="$PROJECT_DIR$/section-templates/pricing.php" />
+        <option value="$PROJECT_DIR$/section-templates/features.php" />
+        <option value="$PROJECT_DIR$/section-templates/news.php" />
+        <option value="$PROJECT_DIR$/section-templates/clients.php" />
+        <option value="$PROJECT_DIR$/section-templates/contact.php" />
+        <option value="$PROJECT_DIR$/section-templates/banner.php" />
+        <option value="$PROJECT_DIR$/section-templates/aboutus.php" />
+        <option value="$PROJECT_DIR$/section-templates/blank.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sonnetwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sonnetwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sonnetwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sonnetwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sonnetwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="section-templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../backbone-tutorial" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/section-templates" />
+      <recent name="$PROJECT_DIR$/ReduxFramework" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="894c6af1-e43d-4ee5-af32-25550be3e4c8" name="Default" comment="" />
+      <created>1383376696939</created>
+      <updated>1383376696939</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Doc">
+      <created>1385821949728</created>
+      <updated>1385821949728</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25078124" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Doc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doc" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/section-templates/stories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="126" selection-start="1697" selection-end="1697" vertical-scroll-proportion="-13.846154" vertical-offset="252" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/subscriptions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="88" selection-start="788" selection-end="788" vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/team.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="7.8076925" vertical-offset="203" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/team-member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/team-member-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="31" selection-start="436" selection-end="436" vertical-scroll-proportion="-4.9615383" vertical-offset="141" max-vertical-offset="1044">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/testimonials.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="110" selection-start="3319" selection-end="3319" vertical-scroll-proportion="-1.1923077" vertical-offset="1049" max-vertical-offset="1638">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/pricing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="48" selection-start="1804" selection-end="1804" vertical-scroll-proportion="-11.769231" vertical-offset="234" max-vertical-offset="1098">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/portfolio-item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1674">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/features.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="124" selection-start="810" selection-end="810" vertical-scroll-proportion="-6.230769" vertical-offset="54" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="124" selection-start="803" selection-end="803" vertical-scroll-proportion="-8.307693" vertical-offset="0" max-vertical-offset="972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/clients.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="124" selection-start="808" selection-end="808" vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="67" selection-start="746" selection-end="746" vertical-scroll-proportion="-0.6923077" vertical-offset="198" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/banner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="75" selection-start="695" selection-end="695" vertical-scroll-proportion="-9.692307" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/aboutus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="97" selection-start="1228" selection-end="1228" vertical-scroll-proportion="20.961538" vertical-offset="905" max-vertical-offset="1494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-templates/blank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="124" selection-start="889" selection-end="889" vertical-scroll-proportion="0.5500849" vertical-offset="0" max-vertical-offset="648">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
