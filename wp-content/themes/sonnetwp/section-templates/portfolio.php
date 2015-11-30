@@ -16,15 +16,19 @@ if ($attachments->exist()) {
 }
 ?>
 <style type="text/css">
-    .portfolio-filter ul li a:hover, .filter:hover, .filter.selected{
+    
+.portfolio-filter ul li a:hover, .filter:hover, .filter.selected{
         color: <?php echo $section_meta['_sonnet_portfolio_tag_text_hover_color'][0]; ?>;
         background: <?php echo $section_meta['_sonnet_portfolio_tag_bg_hover_color'][0]; ?>;
     }
 
-    .portfolio-filter ul li a{
+
+    
+.portfolio-filter ul li a{
         color: <?php echo $section_meta['_sonnet_portfolio_tag_text_color'][0]; ?>;
         background: <?php echo $section_meta['_sonnet_portfolio_tag_bg_color'][0]; ?>;
     }
+
 </style>
 <section id="<?php echo $section->post_name;?>" class="appear portfolio"
          style="color: <?php echo $section_meta['_sonnet_section_text_color'][0];?>; background-color:<?php echo $section_meta['_sonnet_section_color'][0]; ?>; ">
@@ -36,7 +40,8 @@ if ($attachments->exist()) {
         </div>
         <!-- THE FILTER STYLED FOR MEGAFOLIO -->
 
-        <div class="portfolio-filter animated animate-from-left">
+        <!--
+<div class="portfolio-filter animated animate-from-left">
             <ul>
                 <li><a href="#" class="filter selected" data-category="cat-all">All</a><div class="portfolio-title" style="color:#fff;"></div></li>
                 <?php
@@ -44,13 +49,14 @@ if ($attachments->exist()) {
                     if(!empty($tag))
                     echo '<li><a href="#" class="filter" data-category="'.$tag.'">'.$tag.'</a></li>';
                 ?>
-<!--                <li><a href="#" class="filter" data-category="cat-one">Creative</a></li>-->
-<!--                <li><a href="#" class="filter" data-category="cat-two">Painting</a></li>-->
-<!--                <li><a href="#" class="filter" data-category="cat-three">Photography</a></li>-->
-<!--                <li><a href="#" class="filter" data-category="cat-four">Visual</a></li>-->
-<!--                <li><a href="#" class="filter last-child" data-category="cat-five">Graphics</a></li>-->
+               <li><a href="#" class="filter" data-category="cat-one">Creative</a></li>
+               <li><a href="#" class="filter" data-category="cat-two">Painting</a></li>
+               <li><a href="#" class="filter" data-category="cat-three">Photography</a></li>
+               <li><a href="#" class="filter" data-category="cat-four">Visual</a></li>
+               <li><a href="#" class="filter last-child" data-category="cat-five">Graphics</a></li>
             </ul>
         </div>
+-->
 
         <div class="container-fullwidth animated  animate-from-left">
             <!-- The GRID System -->

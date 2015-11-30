@@ -211,7 +211,7 @@ a.btn-tour:hover, a.btn-tour:focus {
 
 
 .common-heading h1 {
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 300;
     margin-top: 20px;
 }
@@ -252,7 +252,7 @@ a.btn-tour:hover, a.btn-tour:focus {
 /*features*/
 
 .feature {
-    padding:0 0 90px 0px;
+    padding:0 90px 90px 90px;
 }
 
 .feature-row .f-icon i {
@@ -291,18 +291,19 @@ a.btn-tour:hover, a.btn-tour:focus {
 
 .feature-wrap {
     display: inline-block;
-    border-bottom: 1px solid #efefef;
-    padding-bottom: 75px;
+    border-bottom: 0px solid #efefef;
+    padding-bottom: 0px;
     margin-bottom: 75px;
 }
 
 .f-btn-row h4 {
     font-size: 20px;
     font-weight: 300;
-    color: #616161;
+    color: #fff;
     margin-bottom: 30px;
 }
 
+/*
 .f-btn-row .btn-purchase-red {
     background: #f07663;
     padding: 15px 50px;
@@ -320,11 +321,14 @@ a.btn-tour:hover, a.btn-tour:focus {
     margin-top:20px;
     display: inline-block;
 }
+*/
 
+/*
 .f-btn-row .btn-purchase-red:hover {
     background: #595959;
 
 }
+*/
 
 /*portfolio*/
 
@@ -835,6 +839,23 @@ ul.post-list {
     margin-top: 5%;
 }
 
+
+
+
+.news-carousel, .testimonial .owl-carousel {
+
+width: 70%;
+margin: 50px auto 0px;
+border: 5px solid #333333;
+border-radius: 3px;
+padding: 0px;
+background: #FFF none repeat scroll 0% 0%;
+height: 165px;
+
+}
+
+
+
 .test-photo {
     margin-bottom: -30px;
 }
@@ -1331,6 +1352,7 @@ blockquote p {
     font-size: 16px;
 }
 
+/*
 .blog-tag {
     margin-bottom: 10px;
 }
@@ -1342,6 +1364,7 @@ blockquote p {
 .blog-tag a:hover {
     text-decoration: underline;
 }
+*/
 
 .share-row {
     border-top: 1px solid #e4e4e4;
@@ -1538,6 +1561,7 @@ comment section end
 /*timeline*/
 
 
+/*
 #timeline {
     height: 275px;
     left: 25px;
@@ -1546,6 +1570,9 @@ comment section end
     z-index: 5;
     top: 200px;
 }
+*/
+
+
 #sidebar{
     width: 100px; height: 500px; background: #ccc;  z-index: 99999; position: absolute;
 }
@@ -1691,10 +1718,12 @@ h1, h2, h3, h4, h5, h6{
     animation-delay: .3s;
 }
 
-.portfolio-filter{ text-align: center;}
 
-.portfolio-filter ul li{ list-style: none; display: inline-block; padding:0 2px;}
+/* .portfolio-filter{ text-align: center;} */
 
+/* .portfolio-filter ul li{ list-style: none; display: inline-block; padding:0 2px;} */
+
+/*
 .portfolio-filter ul li a{
     font-size: 15px;
     color: rgba(255,255,255,0.7);
@@ -1709,7 +1738,9 @@ h1, h2, h3, h4, h5, h6{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
+*/
 
+/*
 .portfolio-filter ul li a:hover, .filter:hover, .filter.selected{
     color: #067fa2;
     background: #23D3FB;
@@ -1719,6 +1750,8 @@ h1, h2, h3, h4, h5, h6{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
+*/
+
 
 
 /*Component loading Animation*/
