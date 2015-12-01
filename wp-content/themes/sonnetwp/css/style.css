@@ -833,11 +833,13 @@ ul.post-list {
     padding: 30px;
 }
 
+/*
 .testimonial .testimonial-icon {
     width: 10%;
     text-align: center;
     margin-top: 5%;
 }
+*/
 
 
 
@@ -1120,6 +1122,7 @@ height: 165px;
     width: 15px;
 }
 
+
 /*clients*/
 
 .clients {
@@ -1133,6 +1136,9 @@ ul.client-logo li {
     width: 16.5%;
     text-align: center;
 }
+
+
+
 
 /*design purchase*/
 
