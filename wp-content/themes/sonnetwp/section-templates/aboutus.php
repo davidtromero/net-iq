@@ -12,7 +12,7 @@ $post = $section;
         <div class="row">
             <div class="common-heading light-color text-center">
                 <div class="common-heading light-color text-center  animated ani-hide">
-                    <!--<h1 class="animated animate-from-left" style="color: <?php echo $section_meta['_sonnet_section_title_color'][0];?>"><?php the_title();?></h1>-->
+                    <h1 class="animated animate-from-left" style="color: <?php echo $section_meta['_sonnet_section_title_color'][0];?>"><?php the_title();?></h1>
 
                 </div>
                 <div class="about-details row">
