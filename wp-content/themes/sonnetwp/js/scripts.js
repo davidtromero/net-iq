@@ -158,7 +158,8 @@ $(function() {
     $('#home').parallax("50%", 0.1);
     $('#start').parallax("50%", 0.1);
     $('.portfolio').parallax("50%", 1);
-    $('.about').parallax("50%", 0.4);
+/*     $('.about').parallax("50%", -0.1); */
+/*     $('.testimonial').parallax("20%", -0.2); */
     $('.team').parallax("50%", 0.3);
     $('.services').parallax("50%", 0.3);
     $('.news').parallax("50%", 0.5);

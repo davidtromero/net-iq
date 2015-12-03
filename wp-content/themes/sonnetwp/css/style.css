@@ -228,6 +228,12 @@ a.btn-tour:hover, a.btn-tour:focus {
     padding-top:50px;
 }
 
+.portfolio {
+    min-height:290px;
+    padding-top:50px;
+}
+
+
 .news {
     min-height:600px;
     padding-top:50px;
@@ -532,17 +538,27 @@ a.btn-tour:hover, a.btn-tour:focus {
 /*about*/
 
 .about {
-    background: #5bb46c;
-    color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 319px;
+    padding-top: 50px;
 }
 
 .about-details {
 
     width: 100%;
-    min-height: 317px;
+    min-height: 200px;
     margin-top: 25px;
     padding-top: 8px;
     text-align: left;
+       
+    
+
+}
+
+
 }
 
 .abt-intro {
@@ -812,7 +828,7 @@ ul.post-list {
     /*background: url("../img/parallax/parallax2.jpg") no-repeat fixed 0 0 #56c3d7;*/
     background-size:cover;
     width: 100%;
-    min-height: 670px;
+    /* min-height: 670px; */
     padding-top: 90px;
     padding-bottom: 120px;
 }
