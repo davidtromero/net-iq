@@ -182,12 +182,12 @@ p {
 .border-top-bot h4 {
     padding-bottom: 25px;
     margin-bottom: 0 !important;
-    font-size: 18px !important;
+    font-size: 28px !important;
     color: #444345;
 }
 
 a.btn-tour {
-    border: 1px solid #fff;
+    /* border: 1px solid #fff; */
     border-radius: 5px;
     -webkit-border-radius: 5px;
     padding: 12px 40px;
@@ -195,18 +195,19 @@ a.btn-tour {
     font-size: 12px;
     font-weight: 300;
     outline: none;
+    background: rgba(41,76,102,1);
 }
 
 a.btn-tour:hover, a.btn-tour:focus {
-    border: 1px solid #1b1b1b;
+/*     border: 1px solid #1b1b1b; */
     border-radius: 5px;
     -webkit-border-radius: 5px;
     padding: 12px 40px;
     color: #1b1b1b;
     font-size: 12px;
-    font-weight: 300;
+    font-weight: 700;
     outline: none;
-    background: rgba(256,256,256,0.1);
+    background: rgba(256,256,256,1);
 }
 
 
@@ -224,7 +225,7 @@ a.btn-tour:hover, a.btn-tour:focus {
 }
 
 #start, #home, .portfolio, .about, .team, .services, .features, .price, .contact {
-    min-height:700px;
+    min-height:500px;
     padding-top:50px;
 }
 
@@ -240,7 +241,7 @@ a.btn-tour:hover, a.btn-tour:focus {
 }
 
 .dark-color {
-    color: #6e6e6e;
+    color: #000000;
 }
 
 .green-color {
@@ -258,7 +259,7 @@ a.btn-tour:hover, a.btn-tour:focus {
 /*features*/
 
 .feature {
-    padding:0 90px 90px 90px;
+    padding:20px 90px 20px 90px;
 }
 
 .feature-row .f-icon i {
@@ -267,7 +268,8 @@ a.btn-tour:hover, a.btn-tour:focus {
 }
 
 .feature-row .f-icon i img {
-    width: 86px;
+    width: 116px;
+    height: 116px;
 }
 
 .feature-row .f-icon .responsive-icon {
@@ -293,6 +295,9 @@ a.btn-tour:hover, a.btn-tour:focus {
 .feature-row h2 {
     font-size: 22px;
     font-weight: 300;
+    padding-bottom: 20px;
+    text-align: center;
+}
 }
 
 .feature-wrap {
@@ -305,8 +310,9 @@ a.btn-tour:hover, a.btn-tour:focus {
 .f-btn-row h4 {
     font-size: 20px;
     font-weight: 300;
-    color: #fff;
+    color: #000000;
     margin-bottom: 30px;
+    line-height: 25px;
 }
 
 /*

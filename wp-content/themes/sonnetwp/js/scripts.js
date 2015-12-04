@@ -163,7 +163,7 @@ $(function() {
     $('.team').parallax("50%", 0.3);
     $('.services').parallax("50%", 0.3);
     $('.news').parallax("50%", 0.5);
-    $('.features').parallax("50%", 0.1);
+    $('.features').parallax("50%", 0.3);
     $('.price').parallax("50%", 0.1);
     $('.blog').parallax("50%", 0.1);
     //$('.contact').parallax("50%", 0.1);
