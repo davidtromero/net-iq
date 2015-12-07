@@ -37,6 +37,8 @@ $index=-1;
                     <section>
                         <p>
                            <!-- <a href="<?php echo $section_meta['_sonnet_story_button_link'][0];?>" target="_blank" class="btn-custom btn-1 btn-1b btn-purchase-red "><span style="cursor: none;"><?php echo $section_meta['_sonnet_story_button_text'][0];?></span></a> -->
+                           
+
                         </p>
                     </section>
                 </div>

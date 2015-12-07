@@ -20,7 +20,7 @@ global $sonnetwp;
             </div>
             <?php if($sonnetwp['button_text']){?>
             <div class="text-center str">
-                <a href="#our-stories" id="" class="btn btn-tour ">
+                <a href="#banner-section" id="" class="btn btn-tour ">
                     <?php echo $sonnetwp['button_text'];?> </a>
             </div>
             <?php }?>

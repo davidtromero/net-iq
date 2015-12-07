@@ -18,7 +18,7 @@ global $sonnetwp;
             </div>
             <div class="col-lg-6 col-sm-6 text-center animated animate-from-top">
                 <a href="#home" class="f-logo">
-                    <!--<img src="<?php echo $sonnetwp['footer_logo']['url'] ;?>" alt="">-->
+                    <img src="<?php echo $sonnetwp['footer_logo']['url'] ;?>" alt="">
                     <div class="social">
                         <?php
                             if($sonnetwp['social_facebook']) echo "<a href='{$sonnetwp['social_facebook']}'><i class='fa fa-facebook'></i></a>";

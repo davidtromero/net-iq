@@ -503,10 +503,10 @@ a.btn-tour:hover, a.btn-tour:focus {
 /*purchase row*/
 
 .purchase-block {
-    /*background: url("../img/parallax/parallax1.jpg") no-repeat fixed 0 0;*/
+/*     background: url("../img/parallax/parallax1.jpg") no-repeat fixed 0 0; */
     background-size:cover;
     width: 100%;
-    min-height: 500px;
+    min-height: 1800px;
 }
 
 .purchase-block .quote {
@@ -1714,11 +1714,21 @@ comment section end
 /*footer*/
 
 .footer {
-    background: #272727;
+    background: #6c97b1;
     padding: 50px 0;
-    color: #6d6e70;
-    font-size: 13px;
+    color: #ffffff;
+    font-size: 10px;
     font-weight: 300;
+    line-height: 2px;
+}
+
+.footer p {
+    background: #6c97b1;
+    padding: 0px 0;
+    color: #ffffff;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 14px;
 }
 
 .f-logo {

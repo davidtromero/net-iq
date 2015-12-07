@@ -17,7 +17,7 @@ $indexes = array("hi-icon-effect-1st","hi-icon-effect-2nd","hi-icon-effect-3rd")
 <div class="<?php echo $story_class;?> text-center <?php echo $story_meta['_sonnet_story_animation'][0];?>">
     <div class="feature-row">
         <div class="f-icon <?php echo $indexes[$index];?>">
-            <a href="#" class="hi-icon " style="background-color: <?php echo $story_meta['_sonnet_story_icon_bg_color'][0]; ?>;cursor: none;">
+            <a href="#" class="hi-icon " style="background-color: <?php echo $story_meta['_sonnet_story_icon_bg_color'][0]; ?>;cursor: display;">
                 <i><img width="75" src="<?php echo $story_meta['_sonnet_story_icon'][0]; ?>"/></i>
             </a>
         </div>
