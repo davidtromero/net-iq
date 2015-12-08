@@ -101,10 +101,12 @@ p {
 
 
 .banner {
-    background: url("../img/parallax/parallax0.jpg") no-repeat fixed 0 0 #e5831d;
-    background-size:cover;
+    background:no-repeat fixed 0px 0px #e5831d;
+    /* background-position: center center; */
+/*     background-size:cover; */
     width: 100%;
     min-height: 800px !important;
+
 }
 
 .start {
